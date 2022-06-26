@@ -36,15 +36,9 @@ The programming language used  is Python (Python 3) and the libraries used are :
 - Numpy
 - Matplotlib
 - Random
-- mlrose-hiive
+- shutil
+- cv2
+- sklearn
+- tqdm
 
 Please make sure to have Jupter notebook and all the libraries above installed .
-
-
-### Installation
-
-Use the package manager [pip](https://pip.pypa.io/en/stable/) to install the packages.
-
-```bash
-pip install [package name]
-```
